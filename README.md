@@ -1,15 +1,13 @@
 # Flashcard 
 
-📝 `NOTE:` Paste the README templates for each subsequent lab here at the top, (i.e. lab 2, 3, 4). This will show a history of your development process including which users tories you completed and how your app looked and functioned at each step.
-
 ## Lab 1
 
 ### App Description
-The app chnages from the question to answer when clicked. 
+The app changes from the question to answer when clicked. 
 
 ### App Walk-though
 
-![](Screen Recording 2021-02-21 at 11.41.41.12 PM.gif)
+Screen Recording 2021-02-21 at 11.41.41.12 PM.gif
 
 ## Required
 - [x] Create New Project in Android Studio
