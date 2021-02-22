@@ -7,7 +7,7 @@ The app changes from the question to answer when clicked.
 
 ### App Walk-though
 
-Screen Recording 2021-02-21 at 11.41.41.12 PM.gif
+https://raw.githubusercontent.com/Shariar365/Flashcard/master/Screen%20Recording%202021-02-21%20at%2011.41.41.12%20PM.gif
 
 ## Required
 - [x] Create New Project in Android Studio
