@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddcardActivity">
+
+    <ImageView
+        android:id="@+id/myBt"
+        android:src="@drawable/cancel"
+        android:layout_height="75dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_width="50dp" />
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:inputType="textMultiLine"
+        android:hint="Write your question here"
+        android:layout_margin="20dp" />
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_margin="30dp"
+        android:inputType="textMultiLine"
+        android:layout_below="@+id/editText"
+        android:hint="Write your answer here" />
+
+    <ImageView
+        android:id="@+id/mysave"
+        android:src="@drawable/save"
+        android:layout_height="75dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_width="50dp" />
+
+</RelativeLayout>
