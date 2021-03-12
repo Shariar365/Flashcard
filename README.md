@@ -30,9 +30,8 @@ The App saves a question and answer from the user. Shows them answer when questi
 ### App Walk-though
 
 
-<img src="https://github.com/Shariar365/Flashcard/blob/master/Screen%20Recording%202021-03-11%20at%2007.25.46.14%20PM.gif?raw=true.gif" width=200><br>
+<img src="https://github.com/Shariar365/Flashcard/blob/master/merge_from_ofoct.gif?raw=true.gif" width=200><br>
 
-<img src="https://github.com/Shariar365/Flashcard/blob/master/Screen%20Recording%202021-03-11%20at%2007.27.13.42%20PM.gif?raw=true" width=200><br>
 
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
