@@ -75,7 +75,7 @@ The app uses aniamtion for the user to use flashcard
 
 ### App Walk-though
 
-<img src="https://github.com/Shariar365/Flashcard/blob/master/ezgif.com-gif-maker.gif" width=200><br>
+<img src="https://github.com/Shariar365/Flashcard/blob/master/Screen-Recording-2021-04-02-at-0.gif" width=200><br>
 
 
 ## Required
